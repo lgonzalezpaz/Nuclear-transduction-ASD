@@ -1,0 +1,54 @@
+{
+  "title": "Nuclear-transduction-ASD v1.0.0: code and derived data for 'How an under-pruned cortex rewrites its splicing code: Ca2+-tuned condensates outcompete transcription-speed and mechanical routes in idiopathic autism'",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "access_right": "open",
+  "description": "Reproducible pipeline (Python) confronting three biophysical channels by which an under-pruned, hyperactive cortex could alter neuronal splicing in idiopathic autism: Ca2+/condensate and energetic exhaustion (H-E), RNA Pol II elongation-rate kinetic coupling (H-K) and mechanical LINC transmission (H-M). Uses only public data (PsychENCODE cortex/cerebellum splicing and RNA-seq; Srrm4-KO, slow Pol II and KCl-neuron splicing tables; UCSC genome resources). Derived data and figures CC BY 4.0.",
+  "creators": [
+    {
+      "name": "Alvarado, Ysaías J.",
+      "affiliation": "IVIC, Centro de Biomedicina Molecular"
+    },
+    {
+      "name": "Quintero, Máximo",
+      "affiliation": "SAHUM; Universidad del Zulia"
+    },
+    {
+      "name": "Cardozo-Urdaneta, Arlene",
+      "affiliation": "IVIC, Centro de Biomedicina Molecular"
+    },
+    {
+      "name": "Lossada, Carla",
+      "affiliation": "IVIC, Centro de Biomedicina Molecular"
+    },
+    {
+      "name": "Marrero-Ponce, Yovani",
+      "affiliation": "Universidad Panamericana; Universidad San Francisco de Quito"
+    },
+    {
+      "name": "Martinez-Rios, Félix",
+      "affiliation": "Universidad Panamericana"
+    },
+    {
+      "name": "Pérez-Castillo, Yunierkis",
+      "affiliation": "Universidad de las Américas"
+    },
+    {
+      "name": "Delgado, Ariana",
+      "affiliation": "IVIC, Centro de Biomedicina Molecular"
+    },
+    {
+      "name": "González-Paz, Lenin",
+      "affiliation": "IVIC, Centro de Biomedicina Molecular"
+    }
+  ],
+  "keywords": [
+    "autism",
+    "microexons",
+    "SRRM4",
+    "biomolecular condensates",
+    "kinetic coupling",
+    "synaptic pruning"
+  ]
+}

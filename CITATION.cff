@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this software archive."
+title: "Nuclear-transduction-ASD: code and derived data for 'How an under-pruned cortex rewrites its splicing code'"
+version: 1.0.0
+date-released: 2026-10-19
+license: MIT
+repository-code: "https://github.com/lgonzalezpaz/Nuclear-transduction-ASD"
+authors:
+  - {family-names: Alvarado, given-names: "Ysaías J.", affiliation: "IVIC, Centro de Biomedicina Molecular"}
+  - {family-names: Quintero, given-names: "Máximo", affiliation: "SAHUM; Universidad del Zulia"}
+  - {family-names: Cardozo-Urdaneta, given-names: "Arlene", affiliation: "IVIC, Centro de Biomedicina Molecular"}
+  - {family-names: Lossada, given-names: "Carla", affiliation: "IVIC, Centro de Biomedicina Molecular"}
+  - {family-names: Marrero-Ponce, given-names: "Yovani", affiliation: "Universidad Panamericana; Universidad San Francisco de Quito"}
+  - {family-names: Martinez-Rios, given-names: "Félix", affiliation: "Universidad Panamericana"}
+  - {family-names: Pérez-Castillo, given-names: "Yunierkis", affiliation: "Universidad de las Américas"}
+  - {family-names: Delgado, given-names: "Ariana", affiliation: "IVIC, Centro de Biomedicina Molecular", email: "arianadelg@gmail.com"}
+  - {family-names: González-Paz, given-names: "Lenin", affiliation: "IVIC, Centro de Biomedicina Molecular", email: "lgonzalezpaz@gmail.com"}
+keywords: [autism, microexons, SRRM4, biomolecular condensates, kinetic coupling, synaptic pruning, biophysics]
